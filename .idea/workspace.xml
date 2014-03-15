@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bf37b62-70e9-48b9-9086-c6b3820c90cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/happyHangup/SigninFrontendController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/happyHangup/SigninFrontendControllerSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/happyHangup/SignupFrontendController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/happyHangup/SignupFrontendControllerSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/happyHangup/SignupFrontendCotrollerControllerSpec.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/signinFrontend/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/signupFrontend/index.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp" afterPath="$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp" />
     </list>
     <ignored path="HappyHangup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,19 +68,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.gsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp">
+      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="79" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.13387978" vertical-offset="761" max-vertical-offset="1440">
+            <state line="167" column="0" selection-start="3598" selection-end="3598" vertical-scroll-proportion="-6.06383" vertical-offset="2220" max-vertical-offset="4650">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontend.gsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="frontend.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="16" selection-start="829" selection-end="924" vertical-scroll-proportion="-4.375" vertical-offset="675" max-vertical-offset="1500">
+            <state line="44" column="19" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.472" vertical-offset="365" max-vertical-offset="1260">
               <folding />
             </state>
           </provider>
@@ -118,11 +109,11 @@
         <option value="$PROJECT_DIR$/grails-app/views/galleryFrontend/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/EventFrontendController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/InterestFrontendController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/interestFrontend/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" />
       </list>
     </option>
   </component>
@@ -160,6 +151,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -322,28 +314,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="happyHangup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HappyHangup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HappyHangup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -355,7 +325,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,130 +350,6 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="happyHangup" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree">
-    <UpdateInfo date="Moments ago" ActionInfo="_Update">
-      <UpdatedFiles>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated from server" />
-          <option name="myStatusName" value="Changed on server" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CHANGED_ON_SERVER" />
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Updated" />
-            <option name="myStatusName" value="Changed" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="UPDATED" />
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Created" />
-            <option name="myStatusName" value="Created" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="CREATED" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/controllers/happyHangup/SigninFrontendController.groovy</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/controllers/happyHangup/SignupFrontendController.groovy</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/views/signinFrontend/index.gsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/views/signupFrontend/index.gsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/happyHangup/SigninFrontendController.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/happyHangup/SignupFrontendController.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/happyHangup/SignupFrontendCotrollerController.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/test/unit/happyHangup/SigninFrontendControllerSpec.groovy</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/test/unit/happyHangup/SignupFrontendControllerSpec.groovy</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/test/unit/happyHangup/SignupFrontendCotrollerControllerSpec.groovy</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Deleted" />
-            <option name="myStatusName" value="Deleted" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="true" />
-            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Restored" />
-            <option name="myStatusName" value="Will be restored" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="RESTORED" />
-          </FILE-GROUP>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Modified" />
-          <option name="myStatusName" value="Modified" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MODIFIED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Skipped" />
-          <option name="myStatusName" value="Skipped" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SKIPPED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with conflicts" />
-          <option name="myStatusName" value="Will be merged with conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_CONFLICTS" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with tree conflicts" />
-          <option name="myStatusName" value="Merged with tree conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with property conflicts" />
-          <option name="myStatusName" value="Will be merged with property conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged" />
-          <option name="myStatusName" value="Will be merged" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Not in repository" />
-          <option name="myStatusName" value="Not in repository" />
-          <option name="mySupportsDeletion" value="true" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UNKNOWN" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally added" />
-          <option name="myStatusName" value="Locally added" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_ADDED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally removed" />
-          <option name="myStatusName" value="Locally removed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_REMOVED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Switched" />
-          <option name="myStatusName" value="Switched" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SWITCHED" />
-        </FILE-GROUP>
-      </UpdatedFiles>
-    </UpdateInfo>
   </component>
   <component name="RunManager" selected="Grails.Grails:HappyHangup">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -746,43 +591,44 @@
       <workItem from="1394847628770" duration="2468000" />
       <workItem from="1394882055048" duration="4896000" />
       <workItem from="1394887718107" duration="9140000" />
+      <workItem from="1394920154805" duration="542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16915000" />
+    <option name="totallyTimeSpent" value="17457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="24" width="1309" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840237" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988167" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21925133" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840237" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -794,14 +640,14 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840237" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -821,8 +667,8 @@
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -843,11 +689,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1170">
+        <state line="54" column="79" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.0" vertical-offset="761" max-vertical-offset="1440">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="16" selection-start="829" selection-end="924" vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="56" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/OrganizerFrontendController.groovy">
@@ -871,16 +729,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/galleryFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="0.37375414" vertical-offset="0" max-vertical-offset="602">
-          <folding />
-        </state>
+        <state line="15" column="1" selection-start="241" selection-end="241" vertical-scroll-proportion="0.37375414" vertical-offset="0" max-vertical-offset="602" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="12" selection-start="951" selection-end="1007" vertical-scroll-proportion="0.3986711" vertical-offset="360" max-vertical-offset="1170">
-          <folding />
-        </state>
+        <state line="40" column="12" selection-start="951" selection-end="1007" vertical-scroll-proportion="0.3986711" vertical-offset="360" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/GalleryFrontendController.groovy">
@@ -906,9 +760,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/organizerFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="7" selection-start="143" selection-end="4009" vertical-scroll-proportion="0.8504983" vertical-offset="1333" max-vertical-offset="1935">
-          <folding />
-        </state>
+        <state line="123" column="7" selection-start="143" selection-end="4009" vertical-scroll-proportion="0.8504983" vertical-offset="1333" max-vertical-offset="1935" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/InterestFrontendController.groovy">
@@ -940,52 +792,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/indexByCategoryId.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="7" selection-start="2563" selection-end="2563" vertical-scroll-proportion="-10.617022" vertical-offset="581" max-vertical-offset="1170">
-          <folding />
-        </state>
+        <state line="72" column="7" selection-start="2563" selection-end="2563" vertical-scroll-proportion="-10.617022" vertical-offset="581" max-vertical-offset="1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="30" selection-start="3647" selection-end="3647" vertical-scroll-proportion="0.54159594" vertical-offset="1316" max-vertical-offset="2235">
-          <folding>
-            <marker date="1394919622495" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1394919622495" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="109" column="30" selection-start="3647" selection-end="3647" vertical-scroll-proportion="0.54159594" vertical-offset="1316" max-vertical-offset="2235" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="33" selection-end="104" vertical-scroll-proportion="-1.7401961" vertical-offset="1125" max-vertical-offset="1920">
-          <folding />
-        </state>
+        <state line="4" column="40" selection-start="33" selection-end="104" vertical-scroll-proportion="-1.7401961" vertical-offset="1125" max-vertical-offset="1920" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/interestFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="94" selection-start="469" selection-end="469" vertical-scroll-proportion="-0.12458472" vertical-offset="360" max-vertical-offset="1935">
+        <state line="19" column="94" selection-start="469" selection-end="469" vertical-scroll-proportion="-0.12458472" vertical-offset="360" max-vertical-offset="1935" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="29" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.46519524" vertical-offset="551" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="4" selection-start="887" selection-end="956" vertical-scroll-proportion="0.09966777" vertical-offset="450" max-vertical-offset="1755">
+        <state line="167" column="0" selection-start="3598" selection-end="3598" vertical-scroll-proportion="-6.06383" vertical-offset="2220" max-vertical-offset="4650">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="16" selection-start="829" selection-end="924" vertical-scroll-proportion="-4.375" vertical-offset="675" max-vertical-offset="1500">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="79" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.13387978" vertical-offset="761" max-vertical-offset="1440">
+        <state line="44" column="19" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.472" vertical-offset="365" max-vertical-offset="1260">
           <folding />
         </state>
       </provider>

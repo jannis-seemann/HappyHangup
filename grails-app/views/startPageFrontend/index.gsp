@@ -163,30 +163,16 @@
 </head>
 
 <body>
-
-<<<<<<< HEAD
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-=======
->>>>>>> upstream/master
-
-    <!-- slides-->
-
-<<<<<<< HEAD
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-        <g:img uri="/images/banner1.jpg"  width="1400" />
-    </div>
+<!--
 
 
-</div>
+
 
 <div class="jumbotron">
-=======
-    <!-- Carousel
-    ================================================== -->
+
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
+
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -228,7 +214,11 @@
     <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
->>>>>>> upstream/master
+-->
+
+<div class="carousel-inner">
+    <g:img uri="/images/banner1.jpg"  width="1400" />
+</div>
 
     <div class="jumbotron">
     <h1>HappyHangup</h1>
