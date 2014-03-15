@@ -27,9 +27,10 @@
                     <span class="icon-bar"></span>
                 </button>
                 <g:link controller="startPageFrontend" action="index" class="navbar-brand">HappyHangup</g:link>
+                <g:link controller="interestFrontend" action="index" class="navbar-brand">My Interest</g:link>
+                <g:link controller="eventFrontend" action="index" class="navbar-brand">Activities</g:link>
                 <g:link controller="organizerFrontend" action="index" class="navbar-brand">Organizers</g:link>
-                <g:link controller="eventFrontend" action="index" class="navbar-brand">Events</g:link>
-                <g:link controller="developerFrontend" action="index" class="navbar-brand">Developers</g:link>
+                <g:link controller="developerFrontend" action="index" class="navbar-brand">About Us</g:link>
 
 
 

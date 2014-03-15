@@ -76,12 +76,12 @@
 </head>
 
 <body>
-<h1>Show event:</h1>
+
 <div class="panel panel-default">
     <div class="panel-heading">
-        <h3 class="panel-title">
+        <h2>
             ${event.name}
-        </h3>
+        </h2>
     </div>
     <div class="panel-body">
         <div class="row">
@@ -99,12 +99,16 @@
                     </g:if>
                 </g:if>
 
-                <h4> Event Starts On:
+                <h4> Activity Starts On:
                 <g:formatDate date="${event.timestamp}" format="yyyy-MM-dd"></g:formatDate>
                 </h4>
 
-                <h4> Event At:
+                <h4> Activity At:
                 ${event.locationAddress}
+                </h4>
+
+                <h4> Activity Organized By:
+                ${event.user.companyName}
                 </h4>
 
                 <!-- do not move this div. has to be directly befor the a.event-login-facebook -->

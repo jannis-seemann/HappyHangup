@@ -33,7 +33,7 @@
 </div>
 
 <blink>
-    <h1>All Events</h1>
+    <h1>All Open Activities</h1>
 </blink>
 <g:each in="${events}" var="event">
 
@@ -60,17 +60,27 @@
                         Helvetica trust fund master cleanse Tumblr. Carles cardigan Intelligentsia next level, fingerstache tattooed American Apparel. Synth keytar ennui, cray ethnic roof party single-origin coffee tote bag cornhole Pinterest bicycle rights gastropub Cosby sweater. Cliche before they sold out shabby chic, retro sustainable bespoke selfies umami Truffaut Banksy High Life Etsy. Narwhal meggings scenester readymade roof party Shoreditch viral Austin. Before they sold out readymade trust fund Intelligentsia. Bitters small batch Marfa, High Life meh pour-over fixie.
                         <g:if test="${event.name}">
                             <g:if test="${event.category.name}">
-                                 <h4> Category : ${event.category.name} </h4>
+                                 <h4> Activity Category : ${event.category.name} </h4>
                             </g:if>
                         </g:if>
 
-                        <h4> Event Starts On:
+                        <h4> Activity Starts On:
                         <g:formatDate date="${event.timestamp}" format="yyyy-MM-dd"></g:formatDate>
                         </h4>
 
-                    <h4> Event At:
+                    <h4> Activity At:
                     ${event.locationAddress}
                     </h4>
+
+                    <h4> Activity Organized By:
+                    ${event.user.companyName}
+                    </h4>
+                    <g:link controller="startPageFrontend" action="index" class="btn btn-primary">Sign up</g:link> 
+
+                    <g:link action="show" id="${event.id}"  class="btn btn-primary">
+                        Find more
+                    </g:link>
+
                     </p>
                 </div>
             </div>
