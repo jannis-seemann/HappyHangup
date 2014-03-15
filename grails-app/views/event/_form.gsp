@@ -20,21 +20,21 @@
 
 </div>
 
-<div class="fieldcontain ${hasErrors(bean: eventInstance, field: 'category', 'error')} required">
-	<label for="category">
-		<g:message code="event.category.label" default="Category" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:select id="category" name="category.id" from="${happyHangup.Category.list()}" optionKey="id" required="" value="${eventInstance?.category?.id}" class="many-to-one"/>
-
-</div>
-
 <div class="fieldcontain ${hasErrors(bean: eventInstance, field: 'locationAddress', 'error')} ">
 	<label for="locationAddress">
 		<g:message code="event.locationAddress.label" default="Location Address" />
 		
 	</label>
 	<g:textField name="locationAddress" value="${eventInstance?.locationAddress}"/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: eventInstance, field: 'locationLong', 'error')} ">
+	<label for="locationLong">
+		<g:message code="event.locationLong.label" default="Location Long" />
+		
+	</label>
+	<g:textField name="locationLong" value="${eventInstance?.locationLong}"/>
 
 </div>
 
@@ -47,12 +47,12 @@
 
 </div>
 
-<div class="fieldcontain ${hasErrors(bean: eventInstance, field: 'locationLong', 'error')} ">
-	<label for="locationLong">
-		<g:message code="event.locationLong.label" default="Location Long" />
-		
+<div class="fieldcontain ${hasErrors(bean: eventInstance, field: 'category', 'error')} required">
+	<label for="category">
+		<g:message code="event.category.label" default="Category" />
+		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="locationLong" value="${eventInstance?.locationLong}"/>
+	<g:select id="category" name="category.id" from="${happyHangup.Category.list()}" optionKey="id" required="" value="${eventInstance?.category?.id}" class="many-to-one"/>
 
 </div>
 

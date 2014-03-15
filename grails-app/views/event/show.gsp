@@ -41,20 +41,20 @@
 				</li>
 				</g:if>
 			
-				<g:if test="${eventInstance?.category}">
-				<li class="fieldcontain">
-					<span id="category-label" class="property-label"><g:message code="event.category.label" default="Category" /></span>
-					
-						<span class="property-value" aria-labelledby="category-label"><g:link controller="category" action="show" id="${eventInstance?.category?.id}">${eventInstance?.category?.encodeAsHTML()}</g:link></span>
-					
-				</li>
-				</g:if>
-			
 				<g:if test="${eventInstance?.locationAddress}">
 				<li class="fieldcontain">
 					<span id="locationAddress-label" class="property-label"><g:message code="event.locationAddress.label" default="Location Address" /></span>
 					
 						<span class="property-value" aria-labelledby="locationAddress-label"><g:fieldValue bean="${eventInstance}" field="locationAddress"/></span>
+					
+				</li>
+				</g:if>
+			
+				<g:if test="${eventInstance?.locationLong}">
+				<li class="fieldcontain">
+					<span id="locationLong-label" class="property-label"><g:message code="event.locationLong.label" default="Location Long" /></span>
+					
+						<span class="property-value" aria-labelledby="locationLong-label"><g:fieldValue bean="${eventInstance}" field="locationLong"/></span>
 					
 				</li>
 				</g:if>
@@ -68,11 +68,11 @@
 				</li>
 				</g:if>
 			
-				<g:if test="${eventInstance?.locationLong}">
+				<g:if test="${eventInstance?.category}">
 				<li class="fieldcontain">
-					<span id="locationLong-label" class="property-label"><g:message code="event.locationLong.label" default="Location Long" /></span>
+					<span id="category-label" class="property-label"><g:message code="event.category.label" default="Category" /></span>
 					
-						<span class="property-value" aria-labelledby="locationLong-label"><g:fieldValue bean="${eventInstance}" field="locationLong"/></span>
+						<span class="property-value" aria-labelledby="category-label"><g:link controller="category" action="show" id="${eventInstance?.category?.id}">${eventInstance?.category?.encodeAsHTML()}</g:link></span>
 					
 				</li>
 				</g:if>

@@ -15,6 +15,6 @@ class Organizer {
     }
 
     public String toString() {
-        return this.firstname + " " + this.lastName;
+        return this.firstName + " " + this.lastName;
     }
 }

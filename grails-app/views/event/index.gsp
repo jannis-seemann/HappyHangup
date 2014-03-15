@@ -28,13 +28,13 @@
 					
 						<g:sortableColumn property="timestamp" title="${message(code: 'event.timestamp.label', default: 'Timestamp')}" />
 					
-						<th><g:message code="event.category.label" default="Category" /></th>
-					
 						<g:sortableColumn property="locationAddress" title="${message(code: 'event.locationAddress.label', default: 'Location Address')}" />
+					
+						<g:sortableColumn property="locationLong" title="${message(code: 'event.locationLong.label', default: 'Location Long')}" />
 					
 						<g:sortableColumn property="locationLat" title="${message(code: 'event.locationLat.label', default: 'Location Lat')}" />
 					
-						<g:sortableColumn property="locationLong" title="${message(code: 'event.locationLong.label', default: 'Location Long')}" />
+						<th><g:message code="event.category.label" default="Category" /></th>
 					
 					</tr>
 				</thead>
@@ -46,13 +46,13 @@
 					
 						<td><g:formatDate date="${eventInstance.timestamp}" /></td>
 					
-						<td>${fieldValue(bean: eventInstance, field: "category")}</td>
-					
 						<td>${fieldValue(bean: eventInstance, field: "locationAddress")}</td>
+					
+						<td>${fieldValue(bean: eventInstance, field: "locationLong")}</td>
 					
 						<td>${fieldValue(bean: eventInstance, field: "locationLat")}</td>
 					
-						<td>${fieldValue(bean: eventInstance, field: "locationLong")}</td>
+						<td>${fieldValue(bean: eventInstance, field: "category")}</td>
 					
 					</tr>
 				</g:each>
