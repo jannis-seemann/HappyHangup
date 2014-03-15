@@ -13,11 +13,14 @@
 </head>
 
 <body>
+    <h1>Browse Category: ${category.name}</h1>
     <g:each in="${events}" var="event">
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h3 class="panel-title">
-                    ${event.name}
+                    <g:link action="show" id="${event.id}">
+                        ${event.name}
+                    </g:link>
                 </h3>
             </div>
             <div class="panel-body">

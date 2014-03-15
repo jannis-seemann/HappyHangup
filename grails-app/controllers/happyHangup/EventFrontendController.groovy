@@ -3,8 +3,9 @@ package happyHangup
 class EventFrontendController {
 
     def indexByCategoryId(Long categoryId) {
-        def events = Category.findById(categoryId)?.events
-        respond events, model: [events: events]
+        def category = Category.findById(categoryId)
+        def events = category?.events
+        respond events, model: [events: events, category: category]
     }
 
     def show(Long id) {
