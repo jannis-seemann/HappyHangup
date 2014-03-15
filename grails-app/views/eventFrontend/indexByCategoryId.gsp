@@ -13,7 +13,9 @@
 </head>
 
 <body>
+<blink>
     <h1>Browse Category: ${category.name}</h1>
+</blink>
     <g:each in="${events}" var="event">
         <div class="panel panel-default">
             <div class="panel-heading">
@@ -26,7 +28,9 @@
             <div class="panel-body">
                 <div class="row">
                     <div class="col-md-3">
-                        <img class="img-responsive" src="http://placehold.it/500x500" />
+                        <g:link action="show" id="${event.id}">
+                            <img class="img-responsive" src="http://placekitten.com/${300 + event.id}/${300 + event.id}" />
+                        </g:link>
                     </div>
                     <div class="col-md-9">
                         <p>
