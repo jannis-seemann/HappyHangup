@@ -27,6 +27,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <g:link controller="startPageFrontend" action="index" class="navbar-brand">HappyHangup</g:link>
+                <g:link controller="developerFrontend" action="index" class="navbar-brand">Developers</g:link>
 
             </div>
             <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">

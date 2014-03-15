@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="020f52b6-c28a-4116-b12b-7b8395a10b7c" name="Default" comment="" />
+=======
+    <list default="true" id="8bf37b62-70e9-48b9-9086-c6b3820c90cf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/german.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/javad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/lie.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/maninder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HappyHangup-grailsPlugins.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HappyHangup.iml" afterPath="$PROJECT_DIR$/HappyHangup.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
+    </list>
+>>>>>>> FETCH_HEAD
     <ignored path="HappyHangup.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
@@ -64,6 +79,7 @@
     <favorites_list name="HappyHangup" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file leaf-file-name="EventFrontendController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/EventFrontendController.groovy">
@@ -168,6 +184,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> FETCH_HEAD
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -180,6 +199,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/grails-app/domain/happyHangup/Oranizer.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/CategoriesController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/EventsController.groovy" />
@@ -199,11 +219,22 @@
         <option value="$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/eventFrontend/indexByCategoryId.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp" />
+=======
+        <option value="$PROJECT_DIR$/grails-app/controllers/happyhangup/DeveloperFrontendController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/DeveloperFrontendController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" />
+>>>>>>> FETCH_HEAD
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="y" value="22" />
+=======
+    <option name="x" value="59" />
+    <option name="y" value="80" />
+>>>>>>> FETCH_HEAD
     <option name="width" value="1440" />
     <option name="height" value="821" />
   </component>
@@ -214,14 +245,26 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+<<<<<<< HEAD
+=======
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+>>>>>>> FETCH_HEAD
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
+<<<<<<< HEAD
     <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1" splitterProportion="0.5">
+=======
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+>>>>>>> FETCH_HEAD
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -232,7 +275,186 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
+<<<<<<< HEAD
     <panes />
+=======
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startPageFrontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="developerFrontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happyHangup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+>>>>>>> FETCH_HEAD
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
@@ -241,6 +463,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
   </component>
@@ -266,6 +489,21 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+=======
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web-app/images" />
+      <recent name="$PROJECT_DIR$/grails-app/views/developerFrontend" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="happyHangup" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Grails.Grails:HappyHangup">
+>>>>>>> FETCH_HEAD
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -276,6 +514,15 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+>>>>>>> FETCH_HEAD
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -368,7 +615,11 @@
           <option name="browserFamily" value="FIREFOX" />
           <option name="launcherType" value="OSDefault" />
           <option name="newPlayerInstance" value="false" />
+<<<<<<< HEAD
           <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+=======
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+>>>>>>> FETCH_HEAD
         </LauncherParameters>
       </option>
       <option name="mobileRunTarget" value="Emulator" />
@@ -411,7 +662,11 @@
           <option name="browserFamily" value="FIREFOX" />
           <option name="launcherType" value="OSDefault" />
           <option name="newPlayerInstance" value="false" />
+<<<<<<< HEAD
           <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+=======
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+>>>>>>> FETCH_HEAD
         </LauncherParameters>
       </option>
       <option name="moduleName" value="" />
@@ -492,15 +747,24 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="020f52b6-c28a-4116-b12b-7b8395a10b7c" name="Default" comment="" />
       <created>1394835400182</created>
       <updated>1394835400182</updated>
       <workItem from="1394835404445" duration="10205000" />
       <workItem from="1394849964878" duration="34000" />
+=======
+      <changelist id="8bf37b62-70e9-48b9-9086-c6b3820c90cf" name="Default" comment="" />
+      <created>1394847183727</created>
+      <updated>1394847183727</updated>
+      <workItem from="1394847179019" duration="411000" />
+      <workItem from="1394847628770" duration="2125000" />
+>>>>>>> FETCH_HEAD
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="10239000" />
   </component>
   <component name="ToolWindowManager">
@@ -535,6 +799,44 @@
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="2536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="80" width="1440" height="821" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> FETCH_HEAD
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -557,6 +859,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/CategoryFrontendController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
@@ -642,10 +945,16 @@
     <entry file="file://$PROJECT_DIR$/test/unit/happyHangup/CategoriesControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="6" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/StartPageFrontendController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="116" selection-end="116" vertical-scroll-proportion="0.12802276" vertical-offset="0" max-vertical-offset="703">
+>>>>>>> FETCH_HEAD
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/test/unit/happyHangup/CategoryControllerSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="126" column="17" selection-start="4159" selection-end="4159" vertical-scroll-proportion="-81.521736" vertical-offset="0" max-vertical-offset="2310" />
@@ -684,10 +993,16 @@
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/EventController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="34" selection-start="333" selection-end="359" vertical-scroll-proportion="0.2932331" vertical-offset="0" max-vertical-offset="1635">
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/DeveloperFrontendController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="109" selection-end="109" vertical-scroll-proportion="0.10668563" vertical-offset="0" max-vertical-offset="703">
+>>>>>>> FETCH_HEAD
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/CategoryController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="51" selection-start="1223" selection-end="1229" vertical-scroll-proportion="-18.913044" vertical-offset="210" max-vertical-offset="1635">
@@ -760,10 +1075,23 @@
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/EventFrontendController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="57" selection-start="454" selection-end="503" vertical-scroll-proportion="0.50810015" vertical-offset="0" max-vertical-offset="679">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="101" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.10683761" vertical-offset="360" max-vertical-offset="1140">
+>>>>>>> FETCH_HEAD
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/conf/ApplicationResources.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="1" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
@@ -799,6 +1127,11 @@
     <entry file="file://$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="6" selection-start="986" selection-end="986" vertical-scroll-proportion="0.8082409" vertical-offset="0" max-vertical-offset="631">
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1549" selection-end="1549" vertical-scroll-proportion="1.353461" vertical-offset="41" max-vertical-offset="1155">
+>>>>>>> FETCH_HEAD
           <folding />
         </state>
       </provider>
