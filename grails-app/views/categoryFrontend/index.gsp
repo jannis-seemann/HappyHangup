@@ -13,6 +13,8 @@
 </head>
 
 <body>
+
+
 <ul>
     <g:each in="${categoryInstanceList}" var="categoryInstance">
         <li>

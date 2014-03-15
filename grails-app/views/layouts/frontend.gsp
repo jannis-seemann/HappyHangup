@@ -26,7 +26,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="../" class="navbar-brand">HappyHangup</a>
+                <g:link controller="startPageFrontend" action="index" class="navbar-brand">HappyHangup</g:link>
+
             </div>
             <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
                 <ul class="nav navbar-nav">
@@ -52,6 +53,18 @@
         <g:layoutBody/>
     </div>
 
-    <r:layoutResources />
+<r:layoutResources />
+
+<!-- include my footer html here -->
+<div class="panel-footer">
+    <div class="pull-right">
+        <p>
+            Designed and built with all the love. Code licensed under
+    <a href="#">MIT</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+            <br>
+        </p>
+    </div>
+    </div>
+
 </body>
 </html>
