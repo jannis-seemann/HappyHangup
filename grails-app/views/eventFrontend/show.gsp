@@ -92,6 +92,21 @@
                 <p class="event-desc">
                     Helvetica trust fund master cleanse Tumblr. Carles cardigan Intelligentsia next level, fingerstache tattooed American Apparel. Synth keytar ennui, cray ethnic roof party single-origin coffee tote bag cornhole Pinterest bicycle rights gastropub Cosby sweater. Cliche before they sold out shabby chic, retro sustainable bespoke selfies umami Truffaut Banksy High Life Etsy. Narwhal meggings scenester readymade roof party Shoreditch viral Austin. Before they sold out readymade trust fund Intelligentsia. Bitters small batch Marfa, High Life meh pour-over fixie.
                 </p>
+
+                <g:if test="${event.name}">
+                    <g:if test="${event.category.name}">
+                        <h4> Category : ${event.category.name} </h4>
+                    </g:if>
+                </g:if>
+
+                <h4> Event Starts On:
+                <g:formatDate date="${event.timestamp}" format="yyyy-MM-dd"></g:formatDate>
+                </h4>
+
+                <h4> Event At:
+                ${event.locationAddress}
+                </h4>
+
                 <!-- do not move this div. has to be directly befor the a.event-login-facebook -->
                 <div style="display:none;">
                     <div class="alert alert-success">

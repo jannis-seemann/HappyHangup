@@ -28,25 +28,22 @@
                 </button>
                 <g:link controller="startPageFrontend" action="index" class="navbar-brand">HappyHangup</g:link>
                 <g:link controller="organizerFrontend" action="index" class="navbar-brand">Organizers</g:link>
+                <g:link controller="eventFrontend" action="index" class="navbar-brand">Events</g:link>
                 <g:link controller="developerFrontend" action="index" class="navbar-brand">Developers</g:link>
 
+
+
             </div>
-            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-                <ul class="nav navbar-nav">
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Browse Categories <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <g:each in="${happyHangup.Category.findAll()}" var="currentCategory">
-                                <li>
-                                    <g:link controller="eventFrontend" action="indexByCategoryId" params="${[categoryId: currentCategory.id]}">
-                                        ${currentCategory.name}
-                                    </g:link>
-                                </li>
-                            </g:each>
-                        </ul>
-                    </li>
-                </ul>
-            </nav>
+            <div class="pull-right">
+
+
+                <form class="navbar-form navbar-left" role="search">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                    </div>
+                    <button type="submit" class="btn btn-default">Go</button>
+                </form>
+            </div>
         </div>
     </header>
 

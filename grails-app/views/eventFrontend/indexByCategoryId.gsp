@@ -13,8 +13,36 @@
 </head>
 
 <body>
+
+
+
+
+        <div class="pull-right">
+        <!-- Large button group -->
+        <div class="btn-group">
+            <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown">
+                Browse Categories <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <g:each in="${happyHangup.Category.findAll()}" var="currentCategory">
+                    <li>
+                        <g:link controller="eventFrontend" action="indexByCategoryId" params="${[categoryId: currentCategory.id]}">
+                            ${currentCategory.name}
+                        </g:link>
+                    </li>
+                </g:each>
+            </ul>
+        </div>
+        </div>
+
+
+
+
+
+
+
 <blink>
-    <h1>Browse Category: ${category.name}</h1>
+    <h1>Events : ${category.name}</h1>
 </blink>
     <g:each in="${events}" var="event">
         <div class="panel panel-default">

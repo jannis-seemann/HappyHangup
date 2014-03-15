@@ -12,4 +12,9 @@ class EventFrontendController {
         def event = Event.findById(id)
         respond event, model: [event: event]
     }
+
+    def index() {
+        def events = Event.findAll()
+        respond events, model: [events: events]
+    }
 }
