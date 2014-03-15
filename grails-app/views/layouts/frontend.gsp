@@ -50,8 +50,8 @@
                         <div class="form-group">
                             <input type="password" placeholder="Password" class="form-control">
                         </div>
-                        <g:link controller="eventFrontend" action="index" class="btn btn-success">Sign in</g:link>
-                        <g:link controller="eventFrontend" action="index" class="btn btn-success">Sign up</g:link>
+                        <g:link controller="signinFrontend" action="index" class="btn btn-success">Sign in</g:link>
+                        <g:link controller="signupFrontend" action="index" class="btn btn-success">Sign up</g:link>
                     </form>
 
 
