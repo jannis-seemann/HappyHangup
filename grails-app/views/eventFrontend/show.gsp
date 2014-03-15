@@ -73,6 +73,25 @@
         }
         */
     </style>
+    <style>
+    #map_canvas {
+        width: 500px;
+        height: 400px;
+    }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script>
+        function initialize() {
+            var map_canvas = document.getElementById('map_canvas');
+            var map_options = {
+                center: new google.maps.LatLng(44.5403, -78.5463),
+                zoom: 8,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            var map = new google.maps.Map(map_canvas, map_options)
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
 </head>
 
 <body>
@@ -107,9 +126,15 @@
                 ${event.locationAddress}
                 </h4>
 
+<<<<<<< HEAD
                 <h4> Activity Organized By:
                 ${event.user.companyName}
                 </h4>
+=======
+                <!-- add google map  for  event location-->
+                <div id="map_canvas"></div>
+                <br>
+>>>>>>> upstream/master
 
                 <!-- do not move this div. has to be directly befor the a.event-login-facebook -->
                 <div style="display:none;">
