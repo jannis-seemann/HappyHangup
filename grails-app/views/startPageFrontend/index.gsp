@@ -178,7 +178,7 @@
     </ol>
     <div class="carousel-inner">
         <div class="item active">
-            <img src="http://placekitten.com/900/500" alt="First slide">
+            <img src="http://placekitten.com/904/502" alt="First slide">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>Example headline.</h1>
@@ -199,7 +199,7 @@
         </div>
         <div class="item">
 
-            <img src="http://placekitten.com/900/500" alt="Third slide">
+            <img src="http://placekitten.com/902/501" alt="Third slide">
             <div class="container">
                 <div class="carousel-caption">
                     <h1>One more for good measure.</h1>
@@ -212,9 +212,6 @@
     <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
-
-
-
 
     <div class="jumbotron">
     <h1>HappyHangup</h1>

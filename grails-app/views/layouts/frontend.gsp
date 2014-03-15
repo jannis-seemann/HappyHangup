@@ -27,23 +27,42 @@
                     <span class="icon-bar"></span>
                 </button>
                 <g:link controller="startPageFrontend" action="index" class="navbar-brand">HappyHangup</g:link>
-                <g:link controller="organizerFrontend" action="index" class="navbar-brand">Organizers</g:link>
-                <g:link controller="eventFrontend" action="index" class="navbar-brand">Events</g:link>
-                <g:link controller="developerFrontend" action="index" class="navbar-brand">Developers</g:link>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+
+                    <li>
+                        <g:link controller="organizerFrontend" action="index" class="">Organizers</g:link>
+                    </li>
+                    <li>
+                        <g:link controller="eventFrontend" action="index" class="">Events</g:link>
+
+                    </li>
+                    <li>
+                        <g:link controller="developerFrontend" action="index" class="">Developers</g:link>
+                    </li>
+                </ul>
+
+                    <form class="navbar-form navbar-right" role="form">
+                        <div class="form-group">
+                            <input type="text" placeholder="Email" class="form-control">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" placeholder="Password" class="form-control">
+                        </div>
+                        <g:link controller="eventFrontend" action="index" class="btn btn-success">Sign in</g:link>
+                        <g:link controller="eventFrontend" action="index" class="btn btn-success">Sign up</g:link>
+                    </form>
+
+
+
+
 
 
 
             </div>
-            <div class="pull-right">
 
 
-                <form class="navbar-form navbar-left" role="search">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                    </div>
-                    <button type="submit" class="btn btn-default">Go</button>
-                </form>
-            </div>
         </div>
     </header>
 
