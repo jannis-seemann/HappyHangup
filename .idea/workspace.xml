@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="020f52b6-c28a-4116-b12b-7b8395a10b7c" name="Default" comment="" />
 =======
+=======
+>>>>>>> FETCH_HEAD
     <list default="true" id="8bf37b62-70e9-48b9-9086-c6b3820c90cf" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/german.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/javad.jpg" />
@@ -16,6 +19,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
     </list>
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
     <ignored path="HappyHangup.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,6 +85,7 @@
     <favorites_list name="HappyHangup" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <leaf>
       <file leaf-file-name="EventFrontendController.groovy" pinned="false" current="false" current-in-tab="false">
@@ -187,6 +194,9 @@
 =======
     <leaf />
 >>>>>>> FETCH_HEAD
+=======
+    <leaf />
+>>>>>>> FETCH_HEAD
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -199,6 +209,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <option value="$PROJECT_DIR$/grails-app/domain/happyHangup/Oranizer.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/CategoriesController.groovy" />
@@ -220,17 +231,27 @@
         <option value="$PROJECT_DIR$/grails-app/views/eventFrontend/indexByCategoryId.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/eventFrontend/show.gsp" />
 =======
+=======
+>>>>>>> FETCH_HEAD
         <option value="$PROJECT_DIR$/grails-app/controllers/happyhangup/DeveloperFrontendController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/happyHangup/DeveloperFrontendController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp" />
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="y" value="22" />
+=======
+    <option name="x" value="59" />
+    <option name="y" value="80" />
+>>>>>>> FETCH_HEAD
 =======
     <option name="x" value="59" />
     <option name="y" value="80" />
@@ -246,6 +267,11 @@
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+>>>>>>> FETCH_HEAD
 =======
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
@@ -255,15 +281,21 @@
   </component>
   <component name="ProjectReloadState">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1" splitterProportion="0.5">
 =======
+=======
+>>>>>>> FETCH_HEAD
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
       <flattenPackages />
       <showMembers />
@@ -276,8 +308,11 @@
       <sortByType />
     </navigator>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <panes />
 =======
+=======
+>>>>>>> FETCH_HEAD
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
@@ -454,6 +489,9 @@
         </subPane>
       </pane>
     </panes>
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
   </component>
   <component name="PropertiesComponent">
@@ -463,6 +501,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+<<<<<<< HEAD
 <<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
@@ -490,6 +529,8 @@
       <method />
     </configuration>
 =======
+=======
+>>>>>>> FETCH_HEAD
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -503,6 +544,9 @@
     </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:HappyHangup">
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
       <module name="" />
@@ -515,13 +559,19 @@
       <method />
     </configuration>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> FETCH_HEAD
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -616,7 +666,11 @@
           <option name="launcherType" value="OSDefault" />
           <option name="newPlayerInstance" value="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+=======
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+>>>>>>> FETCH_HEAD
 =======
           <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
 >>>>>>> FETCH_HEAD
@@ -663,7 +717,11 @@
           <option name="launcherType" value="OSDefault" />
           <option name="newPlayerInstance" value="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
           <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+=======
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+>>>>>>> FETCH_HEAD
 =======
           <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
 >>>>>>> FETCH_HEAD
@@ -748,22 +806,29 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <changelist id="020f52b6-c28a-4116-b12b-7b8395a10b7c" name="Default" comment="" />
       <created>1394835400182</created>
       <updated>1394835400182</updated>
       <workItem from="1394835404445" duration="10205000" />
       <workItem from="1394849964878" duration="34000" />
 =======
+=======
+>>>>>>> FETCH_HEAD
       <changelist id="8bf37b62-70e9-48b9-9086-c6b3820c90cf" name="Default" comment="" />
       <created>1394847183727</created>
       <updated>1394847183727</updated>
       <workItem from="1394847179019" duration="411000" />
       <workItem from="1394847628770" duration="2125000" />
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="10239000" />
   </component>
@@ -800,6 +865,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
 =======
+=======
+>>>>>>> FETCH_HEAD
     <option name="totallyTimeSpent" value="2536000" />
   </component>
   <component name="ToolWindowManager">
@@ -836,6 +903,9 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -859,6 +929,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/CategoryFrontendController.groovy">
       <provider selected="true" editor-type-id="text-editor">
@@ -1076,6 +1147,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
 =======
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/StartPageFrontendController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="5" selection-start="116" selection-end="116" vertical-scroll-proportion="0.12802276" vertical-offset="0" max-vertical-offset="703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/happyHangup/DeveloperFrontendController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="109" selection-end="109" vertical-scroll-proportion="0.10668563" vertical-offset="0" max-vertical-offset="703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> FETCH_HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="57" selection-start="454" selection-end="503" vertical-scroll-proportion="0.50810015" vertical-offset="0" max-vertical-offset="679">
@@ -1086,6 +1173,7 @@
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/frontend.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="101" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.10683761" vertical-offset="360" max-vertical-offset="1140">
+<<<<<<< HEAD
 >>>>>>> FETCH_HEAD
           <folding />
         </state>
@@ -1102,10 +1190,13 @@
     <entry file="file://$PROJECT_DIR$/grails-app/views/categoryFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="6" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="480">
+=======
+>>>>>>> FETCH_HEAD
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/views/eventFrontend/indexByCategoryId.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="21" selection-start="41" selection-end="54" vertical-scroll-proportion="-0.63829786" vertical-offset="0" max-vertical-offset="750">
@@ -1127,6 +1218,11 @@
     <entry file="file://$PROJECT_DIR$/grails-app/views/startPageFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="6" selection-start="986" selection-end="986" vertical-scroll-proportion="0.8082409" vertical-offset="0" max-vertical-offset="631">
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="1549" selection-end="1549" vertical-scroll-proportion="1.353461" vertical-offset="41" max-vertical-offset="1155">
+>>>>>>> FETCH_HEAD
 =======
     <entry file="file://$PROJECT_DIR$/grails-app/views/developerFrontend/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
