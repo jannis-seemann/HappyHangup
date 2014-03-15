@@ -126,15 +126,10 @@
                 ${event.locationAddress}
                 </h4>
 
-<<<<<<< HEAD
+
                 <h4> Activity Organized By:
                 ${event.user.companyName}
                 </h4>
-=======
-                <!-- add google map  for  event location-->
-                <div id="map_canvas"></div>
-                <br>
->>>>>>> upstream/master
 
                 <!-- do not move this div. has to be directly befor the a.event-login-facebook -->
                 <div style="display:none;">
@@ -152,6 +147,14 @@
                         Login with Google+ to join this event
                     </a>
                 </div>
+                <br>
+                <br>
+                <!-- add google map  for  event location-->
+                <div id="map_canvas"></div>
+
+
+
+
 
             </div>
         </div>

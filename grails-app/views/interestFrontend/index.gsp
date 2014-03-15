@@ -25,7 +25,7 @@
 <div class="row">
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/nordea.jpg"  width="200" height="200"/>
+            <g:img uri="/images/guitar.jpg"  width="170" height="170"/>
             <div class="caption">
             <ul class="pager">
                 <li><a href="#">Guitar <span class="badge">9</span> </a></li>
@@ -36,7 +36,7 @@
 
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/nokia.jpg"  width="300" height="350"/>
+            <g:img uri="/images/171x180.gif"  />
             <div class="caption">
             <ul class="pager">
                 <li><a href="#">Pop Music <span class="badge">2</span> </a></li>
@@ -50,7 +50,7 @@
             <g:img uri="/images/171x180.gif"  />
             <div class="caption">
                 <ul class="pager">
-                    <li><a href="#">Piono Geeks <span class="badge">12</span> </a></li>
+                    <li><a href="#">Piano Geeks <span class="badge">12</span> </a></li>
                 </ul>
             </div>
         </div>
@@ -58,7 +58,7 @@
 
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/nokia.jpg"  width="300" height="350"/>
+            <g:img uri="/images/171x180.gif"  />
             <div class="caption">
                 <ul class="pager">
                     <li><a href="#">Bicycling <span class="badge">22</span> </a></li>
@@ -74,7 +74,7 @@
 <div class="row">
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/nordea.jpg"  width="200" height="200"/>
+            <g:img uri="/images/171x180.gif"  />
             <div class="caption">
                 <ul class="pager">
                     <li><a href="#">Road Trip <span class="badge">9</span> </a></li>
@@ -85,7 +85,7 @@
 
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/nokia.jpg"  width="300" height="350"/>
+            <g:img uri="/images/171x180.gif" />
             <div class="caption">
                 <ul class="pager">
                     <li><a href="#">Pub Carol <span class="badge">2</span> </a></li>
@@ -96,7 +96,7 @@
 
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/stockmann.jpg"  width="180" height="180"/>
+            <g:img uri="/images/171x180.gif"  />
             <div class="caption">
                 <ul class="pager">
                     <li><a href="#">Painting and Sketching <span class="badge">12</span> </a></li>
@@ -107,7 +107,7 @@
 
     <div class="col-sm-15 col-md-3">
         <div class="thumbnail">
-            <g:img uri="/images/nokia.jpg"  width="300" height="350"/>
+            <g:img uri="/images/171x180.gif" />
             <div class="caption">
                 <ul class="pager">
                     <li><a href="#">Lapland Trip <span class="badge">22</span> </a></li>
